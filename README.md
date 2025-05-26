@@ -16,6 +16,7 @@
 
 - Python 3.8 или выше
 - Учетная запись GigaChat API ([получить здесь](https://developers.sber.ru/gigachat))
+- Отчет о входных данных ([получить здесь](https://github.com/asneg-zz/freelancer-sql-analyzer/blob/main/Text-to-sql_1.ipynb))
 
 ## 🛠 Установка
 
